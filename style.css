@@ -294,6 +294,12 @@ button {
     font-size: 1rem;
   }
 
+  button:hover {
+    background: var(--clr-gd-royal-blue);
+    transition: .5s;
+    cursor: pointer;
+  }
+
   .summaryBox__flexgroup p {
     font-size: 1rem;
   }
